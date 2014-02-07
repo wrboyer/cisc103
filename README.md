@@ -1,4 +1,4 @@
 cisc103
 =======
 
-cisc102 - JavaScript
+cisc103 - JavaScript
